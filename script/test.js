@@ -1,1 +1,1 @@
-document.write("Когти это хорошо");
+document.write("<h1>Test dlya kogtey</h1>");
